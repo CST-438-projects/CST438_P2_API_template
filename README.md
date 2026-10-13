@@ -1,5 +1,7 @@
 # CST 438 Project 02: API Template
 
+**Project prompt:** https://github.com/CST-438-projects/cst438-docs/tree/main/projects/p2
+
 Starter repo for Project 02. **One person per team** clicks **Use this template → Create a new
 repository**, names it after your API, and adds teammates as collaborators.
 
